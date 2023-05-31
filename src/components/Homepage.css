@@ -1,0 +1,11 @@
+.welcome-div {
+  width: 80%;
+  margin: auto;
+  color: white;
+}
+.welcome-div h3 {
+  font-weight: 450;
+}
+.welcome-div span {
+  color: rgb(249, 45, 45);
+}

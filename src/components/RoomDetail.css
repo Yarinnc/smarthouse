@@ -1,0 +1,70 @@
+.room-detail {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 10px;
+}
+.room-detail h1 {
+  color: white;
+  background-color: rgba(29, 35, 39, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+}
+span {
+  color: rgb(255, 112, 112);
+  margin-left: 10px;
+}
+.item-div button {
+  width: 100px;
+  height: 5vh;
+  padding: 10px;
+
+  border-radius: 10px;
+  margin-left: 5px;
+  font-size: 18px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+
+  text-align: center;
+  color: white;
+  border: none;
+}
+
+.add-btn {
+  width: 200px;
+  height: 5vh;
+  padding: 10px;
+  background-color: rgba(29, 35, 39, 0.8);
+  border-radius: 10px;
+  font-size: 18px;
+  margin-top: 20px;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.15s ease-in-out;
+  color: white;
+  border: none;
+}
+.add-btn:hover {
+  width: 200px;
+  height: 5vh;
+  padding: 10px;
+  background-color: rgba(50, 54, 56, 0.8);
+  border-radius: 10px;
+  font-size: 18px;
+  margin-top: 20px;
+  cursor: pointer;
+  text-align: center;
+
+  color: white;
+  border: none;
+}
+
+hr {
+  width: 99%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}

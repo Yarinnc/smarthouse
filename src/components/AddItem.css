@@ -1,0 +1,45 @@
+.item-btn {
+  width: 200px;
+  height: 5vh;
+  padding: 10px;
+  background-color: rgba(29, 35, 39, 0.8);
+  border-radius: 10px;
+  font-size: 18px;
+  margin-top: 10px;
+  text-align: center;
+  color: white;
+  border: none;
+  transition: all 0.15s ease-in-out;
+  cursor: pointer;
+}
+.item-btn:hover {
+  width: 200px;
+  height: 5vh;
+  padding: 10px;
+  background-color: rgba(50, 54, 56, 0.8);
+  border-radius: 10px;
+  font-size: 18px;
+  margin-top: 10px;
+  text-align: center;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+label {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+select {
+  width: 200px;
+  margin-right: 10px;
+  height: 5vh;
+  padding: 10px;
+  background-color: rgba(29, 35, 39, 0.8);
+  border-radius: 10px;
+  font-size: 18px;
+  margin-top: 10px;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+}

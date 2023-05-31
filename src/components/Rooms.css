@@ -1,0 +1,15 @@
+.room-btns {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  border-radius: 6px;
+  text-decoration: none;
+  width: 85%;
+  height: 43px;
+  border: none;
+  background-color: transparent;
+  font-size: 18px;
+  color: white;
+  text-align: left;
+  padding: 12px;
+}
